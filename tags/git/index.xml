@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>git - 標籤 - 於是我又重看一次</title>
-        <link>https://tsuiokuyo.netlify.com/tags/git/</link>
+        <link>https://tsuiokuyo.github.io/tags/git/</link>
         <description>git - 標籤 - 於是我又重看一次</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>Tsuiokuyo@gmail.com (Tsuiokuyo)</managingEditor>
-            <webMaster>Tsuiokuyo@gmail.com (Tsuiokuyo)</webMaster><lastBuildDate>Tue, 18 Feb 2020 10:21:00 &#43;0000</lastBuildDate><atom:link href="https://tsuiokuyo.netlify.com/tags/git/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Tsuiokuyo@gmail.com (Tsuiokuyo)</webMaster><lastBuildDate>Tue, 18 Feb 2020 10:21:00 &#43;0000</lastBuildDate><atom:link href="https://tsuiokuyo.github.io/tags/git/" rel="self" type="application/rss+xml" /><item>
     <title>tortoisegit，push錯帳號後刪除commit</title>
-    <link>https://tsuiokuyo.netlify.com/posts/d667/</link>
+    <link>https://tsuiokuyo.github.io/posts/d667/</link>
     <pubDate>Tue, 18 Feb 2020 10:21:00 &#43;0000</pubDate>
     <author>Tsuiokuyo</author>
-    <guid>https://tsuiokuyo.netlify.com/posts/d667/</guid>
+    <guid>https://tsuiokuyo.github.io/posts/d667/</guid>
     <description><![CDATA[如題，本來自以為tortoisegit能夠根據資料夾判斷我要用的帳號推送，恩&hellip;&hellip;結果是我想多了，雖然他確實能夠根]]></description>
 </item>
 </channel>

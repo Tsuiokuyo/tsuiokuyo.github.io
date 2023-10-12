@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://tsuiokuyo.netlify.com/sitemap.xml
+Sitemap: https://tsuiokuyo.github.io/sitemap.xml
